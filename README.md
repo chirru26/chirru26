@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 A passionate Backend Developer from India 🇮🇳<br>☕️ Wanna be a Java Developer to build interesting projects 🚀<br>🌐 Check out my website: https://chirru.netlify.app/ <br>
+👨‍💻 A passionate Backend Developer from India 🇮🇳<br>☕️ Wanna be a Java Developer to build interesting projects 🚀<br>🌐 Check out my website: https://chirru.in/ <br>
 
 
 ## 🌐 Socials:
